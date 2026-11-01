@@ -36,8 +36,8 @@ header{
 }
 .q7{
     padding-left: 30px;
-    padding-top: 25px;
-    height: 30px;
+    padding-top: 30px;
+    height: 20px;
 }
 .q8{
     padding-top: 30px;
@@ -394,4 +394,29 @@ header{
 .er1 h2 ,.er11 h2 ,.y3 h2,.y4 h2,.y8 h2,.y9 h2{
     padding-top: 10px;
 }
+}
+.t4:hover{
+    transition: all;
+    background-color: rgba(216, 214, 214, 0.911);
+}
+.t5:hover{
+    transition: all;
+    background-color: rgba(216, 214, 214, 0.911);
+}
+.y1:hover{
+    
+transition: all;
+    background-color: rgba(216, 214, 214, 0.911);
+}
+.y2:hover{
+    transition: all;
+    background-color: rgba(216, 214, 214, 0.911);
+}
+.y6:hover{
+    transition: all;
+    background-color: rgba(216, 214, 214, 0.911);
+}
+.y7:hover{
+    transition: all;
+    background-color: rgba(216, 214, 214, 0.911);
 }
