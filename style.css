@@ -859,3 +859,12 @@ h5{
         padding-top: 10px;
     }
 }
+.o3:hover,.o4:hover,.o5:hover{
+    transition: all;
+    background-color: rgba(211, 210, 210, 0.915);
+}
+.p button:hover,.o1 button:hover,.t1 button:hover,.r8:hover,.w2:hover,.w3:hover,.q6:hover{
+    transition: all;
+    background-color: #c3614f;
+    border: none;
+}
