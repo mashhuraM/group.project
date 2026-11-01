@@ -825,3 +825,37 @@ h5{
         padding-left: 20px;
     }
 }
+.s{
+    width: 100%;
+    height: 50px;
+    background-color: #292C37;
+    display: flex;
+}
+.s1{
+    color: #c6c5c5f6;
+    padding-top: 20px;
+    padding-left: 240px;
+    font-size: 10px;
+}
+.s3{
+    color: #A9ABAF;
+    padding-left: 600px;
+    padding-top: 20px;
+    font-size: 11px;
+}
+.s2{
+    padding-left: 6px;
+    padding-right: 6px;
+   
+}
+@media(max-width:500px){
+    .s{
+        flex-direction: column;
+        height: 70px;
+    }
+    .s1,.s3{
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 10px;
+    }
+}
