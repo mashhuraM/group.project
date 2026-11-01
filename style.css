@@ -120,3 +120,62 @@ header{
     }
     
 }
+.r{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    display: flex;
+}
+.r1{
+    padding-left: 250px;
+    padding-top: 150px;
+    height: 450px;
+}
+.r5{
+    display: flex;
+    padding-top: 20px;
+    font-size: 12px;
+    gap: 20px;
+
+}
+.r2{
+    padding-top: 150px;
+    padding-left: 100px;
+}
+.r3{
+    font-size: 15px;
+    padding-top: 20px;
+}
+.r4{
+    padding-top: 20px;
+}
+.r6{
+    height: 15px;
+}
+.r77{
+    padding-top: 30px;
+}
+.r8{
+    padding: 10px 20px;
+    color: white;
+    background-color: #FD4929;
+    border: none;
+    border-radius: 3px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+@media(max-width:500px){
+    .r{
+        flex-direction: column-reverse;
+        padding-top: 50px;
+    }
+    .r1{
+        padding-left: 0px;
+        padding-top:20px;
+    }
+    .r2{
+        padding-left: 20px;
+        
+    }
+    
+}
